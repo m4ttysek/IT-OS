@@ -2,4 +2,4 @@
 
 Jak se naučit arabsky sauna
 
-[didi](github.com/m4ttysek/IT-OS/hodina1.md)
+[první hodina](https://github.com/m4ttysek/IT-OS/blob/main/hodina1.md)
