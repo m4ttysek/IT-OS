@@ -9,4 +9,4 @@
 - https://www.endeavouros.com
 ## todo
 - [ ] musim si dopsat ukoly
-- [x] ~ splnen ukol c1 ~
+- [x] ~~ splnen ukol c1 ~~
