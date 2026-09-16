@@ -8,5 +8,5 @@
 - https://www.redhat.com
 - https://www.endeavouros.com
 ## todo
-- [] musim si dopsat ukoly
+- [ ] musim si dopsat ukoly
 - [x] splnen ukol c1
